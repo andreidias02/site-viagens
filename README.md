@@ -2,7 +2,7 @@
 
 Um site usando HTML e CSS
 
-[Clique para ver via netlify](https://projetositeviagens.netlify.app)
+[Clique aqui para ver via netlify](https://projetositeviagens.netlify.app)
 
 ## Preview
 ![Screenshot_1](https://user-images.githubusercontent.com/82182435/117889929-b6616800-b28a-11eb-884a-48af8f48190d.png)
